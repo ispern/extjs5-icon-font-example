@@ -5,4 +5,4 @@ This is a sample that uses the following fonts.
 - [FontAwesome](http://fortawesome.github.io/Font-Awesome/)
 - [IcoMoon](https://icomoon.io)
 
-[Demo]()
+[Demo](http://demo.ispern.com/extjs5-icon-font-example/)
